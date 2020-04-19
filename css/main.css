@@ -1,7 +1,10 @@
 body{
-    background-color: #5d7acc;
+    background-color: #adbb7b;
 }
 h2 {
     font-size: 150px;
-    color: #944a4a;
+    color: #461b1b;
+}
+h3 {
+    font-size: large;
 }
